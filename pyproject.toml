@@ -1,7 +1,7 @@
 [project]
-name = "automaca-noteboklm"
+name = "automacao-noteboklm"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automação para inserir links em interface gráfica usando PyAutoGUI. Lê links de um arquivo e simula cliques e digitação."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
